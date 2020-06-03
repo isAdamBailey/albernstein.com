@@ -2,7 +2,7 @@
   	<div class="row">
   	  <div class="col-lg-12">
   		<ul class="list-unstyled">
-  		  <li class="pull-right"><a href="http://ajamesb.com/" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Site by Adam Bailey</h4>" target="_BLANK"><small><span class="glyphicon glyphicon-music"></span></small></a></li>
+  		  <li class="pull-right"><a href="https://adambailey.io/" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Site by Adam Bailey</h4>" target="_BLANK"><small><span class="glyphicon glyphicon-music"></span></small></a></li>
   		  <li><small>&copy; <?php footerDate(); ?> &middot; Albert J. Bernstein Ph.D.</small></li>
   		  <li class="text-center"><a href="#" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Top of the page</h4>">Back To Top</a></li>
   		</ul>
