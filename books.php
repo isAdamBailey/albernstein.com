@@ -26,8 +26,6 @@
 					by syndicated columnist Joyce Lain Kennedy</a></p>
 					<p><strong>Review</strong>: <a href="http://articles.chicagotribune.com/2013-06-03/business/ct-biz-0603-work-advice-huppke-20130603_1_emotional-vampires-sales-reps-buffy" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Review by syndicated columnist Rex Huppke</h4>" target="_blank">
 					by syndicated columnist Rex Huppke</a></p>
-					<p><strong>Television appearance</strong>: <a href="http://katu.com/amnw/lifestyle-health/dealing-with-bosses--co-workers-who-drain-you-dry" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>AM Northwest | Dealing with Bosses &amp; Co-Workers Who Drain You Dry</h4>" target="_blank">
-					AM Northwest | Dealing with Bosses &amp; Co-Workers Who Drain You Dry</a></p><br>
 			        <p>
 			        	<a href="http://www.amazon.com/Emotional-Vampires-Work-Dealing-Coworkers/dp/0071790934" class="btn btn-primary btn-block" role="button" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Purchase book on Amazon.com</h4>" target="_blank">
 			        	<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Amazon</a> 
