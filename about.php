@@ -42,25 +42,6 @@
 	    	<div class="col-md-6">
 	    		<div class="panel panel-default">
 				  <div class="panel-heading">
-				    <h3 class="panel-title">Television Appearances</h3>
-				  </div>
-				  <div class="panel-body">
-					<table class="table table-hover">
-					  <tr>
-					  	<td><a href="http://katu.com/amnw/lifestyle-health/dealing-with-bosses--co-workers-who-drain-you-dry" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>AM Northwest | Dealing with Bosses &amp; Co-Workers Who Drain You Dry</h4>" target="_blank">
-					  	<span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span> AM Northwest | Dealing with Bosses &amp; Co-Workers Who Drain You Dry</a></td>
-					  </tr>
-					  <tr>
-					  	<td><a href="http://katu.com/amnw/lifestyle-health/override-your-autopilot" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>AM Northwest | Override Your Autopilot</h4>" target="_blank">
-					  	<span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span> AM Northwest | Override Your Autopilot</a></td>
-					  </tr>
-					</table>
-				  </div>
-				</div>
-	    	</div>
-	    	<div class="col-md-6">
-	    		<div class="panel panel-default">
-				  <div class="panel-heading">
 				    <h3 class="panel-title">Photography</h3>
 				  </div>
 				  <div class="panel-body">
