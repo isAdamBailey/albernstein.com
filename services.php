@@ -24,8 +24,7 @@
 			    		many techniques for psychological healing.  There is no one approach that works for everyone, so I try to tailor my approach 
 			    		to the needs of my clients.  I’m good at explaining.  As a therapist, I believe that the more you understand about how your 
 			    		mind works, the more control you have over it.</p>  
-			    		<p>I am a panel member of most major insurance plans. My clinical office is at 200 East 22nd Street, Vancouver, Washington.</a></p> 
-			    		<p>For an appointment, call (360) 693 8439</p>
+			    		<p>I am a panel member of most major insurance plans. My clinical office is at 200 East 22nd Street, Vancouver, Washington.</a></p>
 			    		<div class="text-center">	
 							<p><a class="btn btn-primary btn-lg" href="contact.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Contact page</h4>">
 							Contact</a></p>

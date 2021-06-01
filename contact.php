@@ -20,24 +20,12 @@
           <div class="panel-body">
           <table class="table table-hover">
           <tr>
-            <td><span class="glyphicon glyphicon-map-marker"></span>:</td>
+            <td class="glyphicon glyphicon-map-marker"></td>
             <td>200 East 22nd Street Vancouver, WA 98663</td>
           </tr>
           <tr>
-            <td><span class="glyphicon glyphicon-earphone"></span>:</td>
-            <td>(360) 693-8439</td>
-          </tr>
-          <tr>
-            <td><strong>FAX:</strong></td>
-            <td>(360) 696-4811</td>
-          </tr>
-          <tr>
-            <td><span class="glyphicon glyphicon-envelope"></span>:</td>
+            <td class="glyphicon glyphicon-envelope"></td>
             <td><a href="mailto:al@albernstein.com" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Email Al</h4>">al@albernstein.com</a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
           </tr>
           </table>
         </div>
