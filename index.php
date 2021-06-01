@@ -16,23 +16,6 @@
 	      </div>
 	    </div>
 	</section>
-
-	<section class="services-section">
-		<div class="section-body">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<h1 class="section-heading"><strong>Services</strong></h1>
-						<p class="section-text">I am available as a consultant and speaker,
-						with programs ranging from keynotes to full-day workshops on topics related to my books and articles. 
-						I will also develop a program to meet your needs.</p>
-						<p><a class="btn btn-primary btn-lg" href="services.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Services page</h4>">
-						Services</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 	
 	<section class="books-section">
 		<div class="section-body">

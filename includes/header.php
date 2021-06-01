@@ -50,7 +50,6 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li class="nav-item <?=echoActive("index")?>"><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
-            <li class="nav-item <?=echoActive("services")?>"><a href="services.php"><span class="glyphicon glyphicon-tasks" aria-hidden="true"></span> Services</a></li>
             <li class="nav-item <?=echoActive("books")?>"><a href="books.php"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Books</a></li>
             <li class="nav-item <?=echoActive("about")?>"><a href="about.php"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> About</a></li>
             <li class="nav-item <?=echoActive("contact")?>"><a href="contact.php"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a></li>
