@@ -78,7 +78,7 @@ section {
     background-size: cover;
 }
 
-.services-section>.section-body,.books-section>.section-body,.contact-section>.section-body {
+.books-section>.section-body,.contact-section>.section-body {
 	padding-top: 3em;
 }
 
@@ -155,7 +155,7 @@ a:hover {
   section {
   margin-bottom: 15px;
   }
-  .intro-section,.services-section,.books-section,.contact-section {
+  .intro-section,.books-section,.contact-section {
     height: auto;
     padding-bottom: 2em;
   }
