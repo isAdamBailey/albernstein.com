@@ -24,7 +24,7 @@
 			    		many techniques for psychological healing.  There is no one approach that works for everyone, so I try to tailor my approach 
 			    		to the needs of my clients.  I’m good at explaining.  As a therapist, I believe that the more you understand about how your 
 			    		mind works, the more control you have over it.</p>  
-			    		<p>I am a panel member of most major insurance plans. My clinical office is at 200 East 22nd Street, Vancouver, Washington.</a></p>
+			    		<p>I am now retired, but you may contact me via email.</a></p>
 			    		<div class="text-center">	
 							<p><a class="btn btn-primary btn-lg" href="contact.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Contact page</h4>">
 							Contact</a></p>
@@ -42,8 +42,7 @@
 			    		<p>In my talks, I try to present a sensitive and humorous view of serious issues that everyone must face. 
 			    		I try to give useful, step-by-step advice and to leave my audiences laughing -- and thinking.</p>  
 			    		<p>Listen to one of my talks, and your work or home life may never be the same. I have many programs, ranging from keynotes to full-day workshops on topics 
-			    		related to my books and articles. I will also develop a program to meet your needs. My speaking rates start at $3500 and travel expenses.</p>  
-						<p>Contact me for rates for talks in the Portland-Vancouver area.</p>
+			    		related to my books and articles. I will also develop a program to meet your needs.</p>
 						<div class="text-center">	
 							<p><a class="btn btn-primary btn-lg" href="contact.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Contact page</h4>">
 							Contact</a></p>
@@ -66,7 +65,7 @@
      						<li><strong>Conflict Resolution</strong> - Conflict costs money. Conflicts also tend to grow if nothing is done about them. 
      						I have been discretely and effectively resolving conflicts between individuals and groups in business for the past twenty-five years. 
      						If there is a problem in your business, call or E-mail to discuss it with me.</li>
-     						<li><strong>Retreats</strong> - I lead retreats for problem solving, brainstorming, planning and team building. Call or E-mail for further information.</li>
+     						<li><strong>Retreats</strong> - I lead retreats for problem solving, brainstorming, planning and team building.</li>
      					</ul>
      					<div class="text-center">	
 							<p><a class="btn btn-primary btn-lg" href="contact.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Contact page</h4>">
@@ -89,8 +88,7 @@
 			    		a run on your stock. If you should happen to lose your temper, don't be surprised if somebody's lawyer shows up at your door. When 
 			    		you finally get home after a hard day of being all things to all people, you're expected to put the work aside and become a happy, 
 			    		enthusiastic family member.</p>
-						<p>I'm a licensed psychologist with years of experience in dealing with the problems of people who run businesses.  Everything you say is confidential.
-						Coaching fees are assessed at $175. 00 hourly</p>
+						<p>I'm a licensed psychologist with years of experience in dealing with the problems of people who run businesses.  Everything you say is confidential.</p>
 						<div class="text-center">	
 							<p><a class="btn btn-primary btn-lg" href="contact.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Contact page</h4>">
 							Contact</a></p>

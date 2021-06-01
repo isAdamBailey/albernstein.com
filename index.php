@@ -6,7 +6,7 @@
 	        <div class="row">
 	          <div class="col-md-12">
 	            <h1 class="section-heading"><strong>Albert J. Bernstein, Ph. D.</strong></h1>
-	            <p class="section-text">Al Bernstein is a Clinical Psychologist, bestselling author, business consultant, speaker, 
+	            <p class="section-text">Al Bernstein is a retired Clinical Psychologist, bestselling author, business consultant, speaker,
 	            occasional columnist, and award-winning photographer. Dr. Bernstein is known for teaching people to confront difficult and 
 	            frightening situations with wit, wisdom, grace, and liberal doses of humor.</p>
 	            <p><a class="btn btn-primary btn-lg" href="about.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>About page</h4>">
@@ -23,7 +23,7 @@
 				<div class="row">
 					<div class="col-md-6">
 						<h1 class="section-heading"><strong>Services</strong></h1>
-						<p class="section-text">In addition to my psychological practice, I am available as a consultant and speaker, 
+						<p class="section-text">I am available as a consultant and speaker,
 						with programs ranging from keynotes to full-day workshops on topics related to my books and articles. 
 						I will also develop a program to meet your needs.</p>
 						<p><a class="btn btn-primary btn-lg" href="services.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Services page</h4>">
