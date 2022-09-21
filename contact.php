@@ -25,7 +25,7 @@
           </tr>
           <tr>
             <td class="glyphicon glyphicon-envelope"></td>
-            <td><a href="mailto:al@albernstein.com" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Email Al</h4>">al@albernstein.com</a></td>
+            <td><a href="mailto:abernsteinphd@msn.com" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Email Al</h4>">abernsteinphd@msn.com</a></td>
           </tr>
           </table>
         </div>

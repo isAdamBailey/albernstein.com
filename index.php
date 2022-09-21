@@ -40,7 +40,7 @@
 						<h1 class="section-heading"><strong>Contact Me</strong></h1>
 						<p class="section-text">200 East 22nd Street</p>
 						<p class="section-text">Vancouver, WA 98663</p>
-						<p class="section-text"><a href="mailto:al@albernstein.com" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Email Al</h4>">al@albernstein.com</a></p>
+						<p class="section-text"><a href="mailto:abernsteinphd@msn.com" data-html="true" data-toggle="tooltip" data-placement="top" title="<h4>Email Al</h4>">abernsteinphd@msn.com</a></p>
 						<p><a class="btn btn-primary btn-lg" href="contact.php" role="button" data-html="true" data-toggle="tooltip" data-placement="bottom" title="<h4>Contact page</h4>">
 						Map</a></p>
 					</div>
